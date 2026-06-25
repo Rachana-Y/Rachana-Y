@@ -1,23 +1,22 @@
-```md
-<h1 align="center">Hi 👋, I'm Rachana Y</h1>
+# Hi 👋, I'm Rachana Y
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Java+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Java+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎓 BCA Student • 💻 Developer 
+🎓 BCA Student • 💻 Developer • 🚀 Tech Enthusiast
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Java, HTML, CSS, JavaScript & SQL
-- 💻 Passionate about Web Development
-- 🚀 Building projects to improve my skills
-- 📚 Exploring new technologies every day
-- 🎯 Goal: Become a Full Stack Developer
+* 🌱 Currently learning Java, HTML, CSS, JavaScript & SQL
+* 💻 Passionate about Web Development
+* 🚀 Building projects to improve my skills
+* 📚 Exploring new technologies every day
+* 🎯 Goal: Become a Full Stack Developer
 
 ---
 
@@ -56,19 +55,19 @@
 
 ## 🌱 Currently Learning
 
-- ☕ Java Programming
-- 🌐 Frontend Development
-- 🗄️ SQL & Database Management
-- 🔧 Git & GitHub
+* ☕ Java Programming
+* 🌐 Frontend Development
+* 🗄️ SQL & Database Management
+* 🔧 Git & GitHub
 
 ---
 
 ## 🎯 Goals
 
-- ✅ Become a Full Stack Developer
-- ✅ Build Real-World Projects
-- ✅ Improve Problem Solving Skills
-- ✅ Learn Modern Web Technologies
+* ✅ Become a Full Stack Developer
+* ✅ Build Real-World Projects
+* ✅ Improve Problem Solving Skills
+* ✅ Learn Modern Web Technologies
 
 ---
 
@@ -84,9 +83,9 @@
 
 ## ✨ Quote
 
-> "Code. Learn. Build. Repeat. 🚀"
+> Code. Learn. Build. Repeat. 🚀
 
 ---
 
 ⭐ Thanks for visiting my profile!
-```
+
