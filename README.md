@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-🎓 BCA Student • 💻 Developer • 🚀 Tech Enthusiast
+🎓 BCA Student • 💻 Developer 
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🌱 Currently learning Java, HTML, CSS, JavaScript & SQL
+* 🌱 Technologies Java, HTML, CSS, JavaScript & SQL
 * 💻 Passionate about Web Development
 * 🚀 Building projects to improve my skills
 * 📚 Exploring new technologies every day
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Technologies
 
 * ☕ Java Programming
 * 🌐 Frontend Development
@@ -76,6 +76,9 @@
 <p>
   <a href="https://github.com/Rachana-Y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="rachanay0422@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
